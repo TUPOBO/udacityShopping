@@ -1,1 +1,18 @@
 /* pages/home/home.wxss */
+page {
+  margin: 0;
+  padding: 0;
+}
+.bg {
+  width: 750rpx;
+  height: 254rpx;
+}
+
+.focusProductName {
+  display: flex;
+}
+
+.lineRed {
+  width: 24rpx;
+  height: 39rpx;
+}

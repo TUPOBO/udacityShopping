@@ -1,2 +1,11 @@
-<!--pages/home/home.wxml-->
-<text>pages/home/home.wxml</text>
+<!-- pages/home/home.wxml -->
+<view class="container">
+  <image class="bg" src="../../images/bg.png" mode="aspectFit"></image>
+  <view class="focus">
+    <view class="focusProductName">
+      <image src="../../images/line-red.png" class="lineRed"></image>
+      <view>钱包</view>
+      <image src="../../images/line-red.png" class="lineRed"></image>
+    </view>
+    </view>
+</view>
